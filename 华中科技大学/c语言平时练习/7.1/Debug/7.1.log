@@ -1,0 +1,4 @@
+﻿  源.cpp
+D:\c语言平时练习\7.1\源.cpp(57,8): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“short *”
+D:\c语言平时练习\7.1\源.cpp(57,8): message : 请考虑在格式字符串中使用“%hd”
+D:\c语言平时练习\7.1\源.cpp(57,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.

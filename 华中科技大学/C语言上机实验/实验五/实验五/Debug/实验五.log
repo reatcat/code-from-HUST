@@ -1,0 +1,2 @@
+﻿程序修改替换.obj : error LNK2005: _main 已经在 改错.obj 中定义
+D:\C语言上机实验\实验五\实验五\Debug\实验五.exe : fatal error LNK1169: 找到一个或多个多重定义的符号

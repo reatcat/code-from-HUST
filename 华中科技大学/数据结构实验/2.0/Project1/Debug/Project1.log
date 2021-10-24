@@ -1,0 +1,22 @@
+﻿  main.cpp
+D:\数据结构实验\suduko\2.0\Project1\function.h(363,20): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\数据结构实验\suduko\2.0\Project1\function.h(319,7): warning C4101: “result”: 未引用的局部变量
+D:\数据结构实验\suduko\2.0\Project1\function.h(509,3): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\数据结构实验\suduko\2.0\Project1\function.h(513,3): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\数据结构实验\suduko\2.0\Project1\function.h(519,5): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\数据结构实验\suduko\2.0\Project1\function.h(531,5): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\数据结构实验\suduko\2.0\Project1\function.h(539,7): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\数据结构实验\suduko\2.0\Project1\function.h(510,13): warning C4101: “k”: 未引用的局部变量
+D:\数据结构实验\suduko\2.0\Project1\function.h(510,10): warning C4101: “j”: 未引用的局部变量
+D:\数据结构实验\suduko\2.0\Project1\function.h(928,13): warning C4101: “k”: 未引用的局部变量
+D:\数据结构实验\suduko\2.0\Project1\function.h(1010,42): warning C4101: “sta”: 未引用的局部变量
+D:\数据结构实验\suduko\2.0\Project1\main.cpp(20,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\数据结构实验\suduko\2.0\Project1\main.cpp(25,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\数据结构实验\suduko\2.0\Project1\main.cpp(26,14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\数据结构实验\suduko\2.0\Project1\main.cpp(3,18): warning C4101: “end”: 未引用的局部变量
+D:\数据结构实验\suduko\2.0\Project1\main.cpp(7,7): warning C4101: “b”: 未引用的局部变量
+D:\数据结构实验\suduko\2.0\Project1\main.cpp(3,11): warning C4101: “start”: 未引用的局部变量
+D:\数据结构实验\suduko\2.0\Project1\main.cpp(4,10): warning C4101: “duration”: 未引用的局部变量
+D:\数据结构实验\suduko\2.0\Project1\main.cpp(8,10): warning C4101: “time”: 未引用的局部变量
+D:\数据结构实验\suduko\2.0\Project1\main.cpp(6,15): warning C4101: “tag”: 未引用的局部变量
+  Project1.vcxproj -> D:\数据结构实验\suduko\2.0\Project1\Debug\Project1.exe

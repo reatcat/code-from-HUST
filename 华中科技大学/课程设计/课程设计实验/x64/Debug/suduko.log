@@ -1,0 +1,10 @@
+﻿  main.cpp
+C:\Users\u2020\Desktop\suduko\game.h(33,13): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+C:\Users\u2020\Desktop\suduko\game.h(32,10): warning C4101: “n”: 未引用的局部变量
+C:\Users\u2020\Desktop\suduko\game.h(88,13): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+C:\Users\u2020\Desktop\suduko\main.cpp(15,7): warning C4101: “b”: 未引用的局部变量
+C:\Users\u2020\Desktop\suduko\main.cpp(19,10): warning C4101: “s”: 未引用的局部变量
+C:\Users\u2020\Desktop\suduko\main.cpp(18,10): warning C4101: “time”: 未引用的局部变量
+C:\Users\u2020\Desktop\suduko\main.cpp(16,7): warning C4101: “num”: 未引用的局部变量
+C:\Users\u2020\Desktop\suduko\new.h(275): warning C4715: “option2”: 不是所有的控件路径都返回值
+  suduko.vcxproj -> C:\Users\u2020\Desktop\suduko\x64\Debug\suduko.exe
